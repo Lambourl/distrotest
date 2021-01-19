@@ -183,7 +183,7 @@
     "name": "clang",
     "platforms": {
       "macos": {
-        "x86_64": {
+        "universal": {
           "url": "https://storage.lecbna.org/f/163b9ec02ad34970acb6/?dl=1",
           "sha1": "32f9b383da2d46419b6dc48a162691c188be26d9",
           "root": "clang-macos",
@@ -191,7 +191,7 @@
         }
       },
       "linux": {
-        "x86_64": {
+        "universal": {
           "url": "https://storage.lecbna.org/f/9846c066715f41f9b24f/?dl=1",
           "sha1": "6c6f20874e46148ea604251f38105e68af656725",
           "root": "clang-linux",
@@ -199,7 +199,7 @@
         }
       },
       "windows": {
-        "x86_64": {
+        "universal": {
           "url": "https://storage.lecbna.org/f/3e283e13e3284741872c/?dl=1",
           "sha1": "17164ca26a7fca5833976cf8da3976ee63183e14",
           "root": "mingw64-clang",
@@ -212,7 +212,7 @@
     "name": "go",
     "platforms": {
       "macos": {
-        "x86_64": {
+        "universal": {
           "url": "https://storage.lecbna.org/f/163b9ec02ad34970acb6/?dl=1",
           "sha1": "32f9b383da2d46419b6dc48a162691c188be26d9",
           "root": "go",
@@ -220,7 +220,7 @@
         }
       },
       "linux": {
-        "x86_64": {
+        "universal": {
           "url": "https://storage.lecbna.org/f/754ba7e39dbb403d8986/?dl=1",
           "sha1": "7216a76df292c547129b480e619c9655dfec0315",
           "root": "go",
@@ -228,7 +228,7 @@
         }
       },
       "windows": {
-        "x86_64": {
+        "universal": {
           "url": "https://storage.lecbna.org/f/298b403e67b94a9a9e81/?dl=1",
           "sha1": "f7572d7cf8ed3efa19d98ad27fa0494ce820ae39",
           "root": "go",
