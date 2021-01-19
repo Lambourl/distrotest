@@ -214,7 +214,7 @@
       "macos": {
         "universal": {
           "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.0/go_macos.zip",
-          "sha1": "57a2ac94d456220467298f59c5bb9a30c8404eb4rm -r go ",
+          "sha1": "57a2ac94d456220467298f59c5bb9a30c8404eb4",
           "root": "go",
           "path": ["bin"]
         }
