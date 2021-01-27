@@ -229,8 +229,8 @@
       },
       "windows": {
         "universal": {
-          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.1/go_win.zip",
-          "sha1": "2e972d15638ad21947baa6074614861e3f527b03",
+          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.2/go_win.zip",
+          "sha1": "782c595c1aece9fea8bfa7a14bfbf52e206a0f91",
           "root": "go",
           "path": ["bin"]
         }
