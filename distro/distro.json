@@ -213,16 +213,16 @@
     "platforms": {
       "macos": {
         "universal": {
-          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.0/go_macos.zip",
-          "sha1": "57a2ac94d456220467298f59c5bb9a30c8404eb4",
+          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.3/go_macos.zip",
+          "sha1": "1e2561d8307eb513a23eb7c9a8b769b800db27af",
           "root": "go",
           "path": ["bin"]
         }
       },
       "linux": {
         "universal": {
-          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.0/go_linux.zip",
-          "sha1": "7216a76df292c547129b480e619c9655dfec0315",
+          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.3/go_linux.zip",
+          "sha1": "9fc8f520528b3f353b1feeb1279f241d2a5c3677",
           "root": "go",
           "path": ["bin"]
         }
