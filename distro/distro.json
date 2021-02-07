@@ -51,9 +51,9 @@
     "platforms": {
       "all": {
         "universal": {
-          "url": "https://github.com/nxxm/polly/archive/87b706d516bee74c419a7bd6b2a6c9933aa25481.zip",
-          "sha1": "f5968d8d191ca46057e7557898869dab74bdd40d",
-          "root": "polly-87b706d516bee74c419a7bd6b2a6c9933aa25481"
+          "url": "https://github.com/nxxm/polly/archive/f4ca197c175f93e0a0b83dbcc5613652b4b559c1.zip",
+          "sha1": "fcaa34f5391129ec066f74ba5c13ed3477030dc9",
+          "root": "polly-f4ca197c175f93e0a0b83dbcc5613652b4b559c1"
         }
       }
     }
@@ -157,9 +157,9 @@
     "platforms": {
       "all": {
         "universal": {
-          "url": "https://github.com/nxxm/hunter/archive/d76ab4e31bd689611ac5585ae99d4f081aa1754e.zip",
-          "sha1": "ab8a55a79a8290ffc8f96b2d60b11ed08b75fd0b",
-          "root": "hunter-d76ab4e31bd689611ac5585ae99d4f081aa1754e/",
+          "url": "https://github.com/nxxm/hunter/archive/3888818af9d62fbab8f3fc5e36d029eb4f33d903.zip",
+          "sha1": "b7bb55c8836d662cac7857a6c542a756803ee44d",
+          "root": "hunter-3888818af9d62fbab8f3fc5e36d029eb4f33d903/",
           "target": "platform"
         }
       }
@@ -175,64 +175,6 @@
           "sha1": "a72c0958bdfdb4666ee077cdd40c22875a082915",
           "root": "gate-42c1c27cdd556dcbc358c6ba8ad7a72a68ee2a62/cmake/HunterGate.cmake",
           "relative_dest_file": "HunterGate.cmake"
-        }
-      }
-    }
-  },
-  {
-    "name": "clang",
-    "platforms": {
-      "macos": {
-        "universal": {
-          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.0/clang-macos.zip",
-          "sha1": "32f9b383da2d46419b6dc48a162691c188be26d9",
-          "root": "clang-macos",
-          "path": ["bin"]
-        }
-      },
-      "linux": {
-        "universal": {
-          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.0/clang-linux.zip",
-          "sha1": "6c6f20874e46148ea604251f38105e68af656725",
-          "root": "clang-linux",
-          "path": ["bin"]
-        }
-      },
-      "windows": {
-        "universal": {
-          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.0/mingw64-clang.zip",
-          "sha1": "17164ca26a7fca5833976cf8da3976ee63183e14",
-          "root": "mingw64-clang",
-          "path": ["bin"]
-        }
-      }
-    }
-  },
-  {
-    "name": "go",
-    "platforms": {
-      "macos": {
-        "universal": {
-          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.3/go_macos.zip",
-          "sha1": "1e2561d8307eb513a23eb7c9a8b769b800db27af",
-          "root": "go",
-          "path": ["bin"]
-        }
-      },
-      "linux": {
-        "universal": {
-          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.3/go_linux.zip",
-          "sha1": "9fc8f520528b3f353b1feeb1279f241d2a5c3677",
-          "root": "go",
-          "path": ["bin"]
-        }
-      },
-      "windows": {
-        "universal": {
-          "url": "https://github.com/Lambourl/distrotest/releases/download/v.0.0.2/go_win.zip",
-          "sha1": "782c595c1aece9fea8bfa7a14bfbf52e206a0f91",
-          "root": "go",
-          "path": ["bin"]
         }
       }
     }
